@@ -66,8 +66,8 @@ Screenshot3-Here the user fails to find the word, therefore the man is hanged!
 
 ## Video
 <video>
-  <source src="WhatsApp Video 2024-10-26 at 07.51.24.mp4"
-    <type="video/mp4">
+  <source src="
+https://github.com/user-attachments/assets/da71e36f-404d-4efe-85b6-3b8f82e6f7f3" type="video/mp4">
 </video>
 
 ## Team Contributions
