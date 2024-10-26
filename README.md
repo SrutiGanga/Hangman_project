@@ -56,7 +56,7 @@ The Hangman Game is a classic word-guessing application developed in Python, all
 
 # Screenshots (Add at least 3)
 Screenshot1
-<img src="WhatsApp Image 2024-10-26 at 07.40.09">
+<img src="WhatsApp Image 2024-10-26 at 07.40.09.jpeg">
 Screenshot2( Add screenshot 2 here with proper name)
 Add caption explaining what this shows
 
