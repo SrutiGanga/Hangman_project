@@ -70,10 +70,7 @@ Screenshot3-Here the user fails to find the word, therefore the man is hanged!
 https://github.com/user-attachments/assets/da71e36f-404d-4efe-85b6-3b8f82e6f7f3" type="video/mp4">
 </video>
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
 
 ---
 
